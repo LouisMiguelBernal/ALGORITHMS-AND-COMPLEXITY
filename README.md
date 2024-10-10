@@ -14,3 +14,10 @@
 ![{A8EA3637-286F-421F-8FA0-8DAC2C85A203}](https://github.com/user-attachments/assets/d8c57131-5d3c-483e-872e-2ba5a6cd0301)
 ## Output
 ![{4A147B7F-C39D-4769-B4B1-00435D4E62B0}](https://github.com/user-attachments/assets/35c6cb8c-0236-4ad9-9b91-6f9953bb8800)
+
+# Problem 3: Recursive Algorithms Tower of Hanoi
+## Code
+![{54D0A1EF-2A4B-41B3-ACE4-72B4454AA68A}](https://github.com/user-attachments/assets/c5c92205-be44-483c-8d7b-babac3234526)
+## Output
+![{131F5573-DF8C-469A-A668-B860F95B68C2}](https://github.com/user-attachments/assets/76fe3b4d-61b4-4bb0-963c-60e2bf9489a2)
+
